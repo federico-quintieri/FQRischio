@@ -170,4 +170,6 @@ void OnTick()
 
 # Licenza
 
-MIT License
+Uso libero per progetti personali e commerciali.
+
+Vietata la redistribuzione o rivendita della libreria senza autorizzazione.
